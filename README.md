@@ -20,13 +20,22 @@ Hi, I'm <b>Muktan</b> 👋, a programmer 👨🏻‍💻 from India 🇮🇳. I'
 
 **Current Status Quo**
 
-- 🔭 I’m currently Researching on <b>End-to-End Speech Recognition(ASR)</b>.
+- 🔭 I’m currently Researching and Working on <b>End-to-End Speech Recognition(ASR)</b>.
 - 🌱 I’m currently learning <b>Object detection</b> using deep learning.
 - 🤔 My research interests are with <b>speech recognition systems</b>, <b>object detection</b>, etc.
 - 💼 I’m pursuing a <b>B Tech. Computer Engineering degree at Dharmsinh Desai University,Nadiad</b>.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via muktan123@gmail.com to reach me.
 - 👀 See my [Resume](https://drive.google.com/file/d/1GP0n8Z1O22N25Q0taJBvmZE0DxXl5vko/view?usp=sharing) to get more info.
+
+**Work Experience**
+- Company: Atliq Technologies, Vadodara
+- Designation: Python Developer Intern
+- Internship Period: 2 months (April 2020 - June 2020)
+- Accomplished:
+      - Improved ingestion performance by <b>80%</b> by Indexing table and refactoring code.
+      - Increased code coverage by <b>35%</b> by writing test cases in <b>Pytest</b>.
+      - Refactored code such that it uses <b>OOP</b> concepts.
 
 **Skills**
 
