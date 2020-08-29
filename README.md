@@ -16,7 +16,7 @@
 <br />
 <br />
 
-Hi, I'm Muktan 👋, a programmer 👨🏻‍💻 from India 🇮🇳. I'm Deep Learning researcher and enthusiast and most of time develop in Python 🐍 also I am intrested in Data Structures and Algorithms. Currently, I'm working on End-to-End Speech Recognition(ASR). Beside's programming, I play chess ♟️ also I like listening Piano and other instrumentals.
+Hi, I'm <b>Muktan</b> 👋, a programmer 👨🏻‍💻 from India 🇮🇳. I'm Deep Learning researcher and enthusiast and most of time develop in Python 🐍 also I am intrested in Data Structures and Algorithms. Currently, I'm working on End-to-End Speech Recognition(ASR). Beside's programming, I play chess ♟️ also I like listening Piano and other instrumentals.
 
 **Current Status Quo**
 
