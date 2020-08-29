@@ -30,7 +30,7 @@ Hi, I'm <b>Muktan</b> 👋, a programmer 👨🏻‍💻 from India 🇮🇳. I'
 
 **Skills**
 
-- 🎯 machine Learning.
+- 🎯 Machine Learning.
 - 🎯 Python
 - 🎯 Research
 
