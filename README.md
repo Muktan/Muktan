@@ -32,10 +32,10 @@ Hi, I'm <b>Muktan</b> 👋, a programmer 👨🏻‍💻 from India 🇮🇳. I'
 - Company: Atliq Technologies, Vadodara
 - Designation: Python Developer Intern
 - Internship Period: 2 months (April 2020 - June 2020)
-- Accomplished:
-      - Improved ingestion performance by <b>80%</b> by Indexing table and refactoring code.
-      - Increased code coverage by <b>35%</b> by writing test cases in <b>Pytest</b>.
-      - Refactored code such that it uses <b>OOP</b> concepts.
+- Accomplished:<br/>
+      - Improved ingestion performance by <b>80%</b> by Indexing table and refactoring code.<br/>
+      - Increased code coverage by <b>35%</b> by writing test cases in <b>Pytest</b>.<br/>
+      - Refactored code such that it uses <b>OOP</b> concepts.<br/>
 
 **Skills**
 
