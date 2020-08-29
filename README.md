@@ -16,18 +16,25 @@
 <br />
 <br />
 
-Hi, I'm <b>Muktan</b> 👋, a programmer 👨🏻‍💻 from India 🇮🇳. I'm Deep Learning researcher and enthusiast and most of time develop in Python 🐍 also I am intrested in Data Structures and Algorithms. Currently, I'm working on End-to-End Speech Recognition(ASR). Beside's programming, I play chess ♟️ also I like listening Piano and other instrumentals.
+Hi, I'm <b>Muktan</b> 👋, a programmer 👨🏻‍💻 from India 🇮🇳. I'm <b>Deep Learning researcher and enthusiast</b> and most of time develop in Python 🐍 also <b>Data Structures and Algorithms</b> intrests me lot. Beside's programming, I play chess ♟️ also I like listening Piano 🎹 and other instrumentals.
 
 **Current Status Quo**
 
-- 🔭 I’m currently working End-to-End Speech Recognition(ASR).
-- 🌱 I’m currently learning Object detection using deep learning.
-- 🤔 My research interests are with speech recognition systems, object detection, etc.
-- 💼 I’m pursuing a B Tech. Computer Engineering degree at Dharmsinh Desai University,Nadiad.
+- 🔭 I’m currently Researching on <b>End-to-End Speech Recognition(ASR)</b>.
+- 🌱 I’m currently learning <b>Object detection</b> using deep learning.
+- 🤔 My research interests are with <b>speech recognition systems</b>, <b>object detection</b>, etc.
+- 💼 I’m pursuing a <b>B Tech. Computer Engineering degree at Dharmsinh Desai University,Nadiad</b>.
 - 💬 Ask me about anything, I would like to answer.
 - 📫 Please email via muktan123@gmail.com to reach me.
 - 👀 See my [Resume](https://drive.google.com/file/d/1GP0n8Z1O22N25Q0taJBvmZE0DxXl5vko/view?usp=sharing) to get more info.
 
-![LovelyBuggies's github stats](https://github-readme-stats.vercel.app/api/?username=Muktan&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
+**Skills**
+
+- 🎯 machine Learning.
+- 🎯 Python
+- 🎯 Research
+
+
+![Muktan's github stats](https://github-readme-stats.vercel.app/api/?username=Muktan&show_icons=true&title_color=ffd1dc&icon_color=79ff97&text_color=ffd1dc&bg_color=151515)
 
 ⭐️ From [Muktan](https://github.com/Muktan)
