@@ -6,14 +6,9 @@
 <a href="muktan123@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
-
-<a href="https://www.codechef.com/users/muktan123">
+<a href="https://leetcode.com/lovelybuggies/">
   <img align="left" alt="LeetCode" width="22px" src="https://api.iconify.design/simple-icons:codechef.svg" />
 </a>
-<a href="https://leetcode.com/muktan123/">
-  <img align="left" alt="LeetCode" width="22px" src="https://api.iconify.design/simple-icons:codechef.svg" />	  <img align="left" alt="LeetCode" width="22px" src="https://api.iconify.design/simple-icons:leetcode.svg" />
-</a>	
-
 <a href="https://www.kaggle.com/muktan">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
