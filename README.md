@@ -6,6 +6,9 @@
 <a href="muktan123@gmail.com">
   <img align="left" alt="'Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
+<a href="https://www.codechef.com/users/muktan123">
+  <img align="left" alt="CodeChaef" width="22px" src="https://api.iconify.design/simple-icons:codechef.svg" />
+</a>
 <a href="https://leetcode.com/muktan123/">
   <img align="left" alt="LeetCode" width="22px" src="https://api.iconify.design/simple-icons:leetcode.svg" />
 </a>
