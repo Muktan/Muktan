@@ -37,6 +37,11 @@ Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</
 - 🎯 Python
 - 🎯 Research
 
+
+**Stats**
+
 [![Muktan's github stats](https://github-readme-stats.vercel.app/api?username=Muktan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muktan&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [Muktan](https://github.com/Muktan)
