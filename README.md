@@ -33,12 +33,12 @@ Hi, I'm <b>Muktan</b> 👋. I have research interests in <b>Artificial Intellige
 **Research Experience**
 - <b>Title:</b> End-to-End Automatic Speech Recognition(ASR)
 - <b>Task Performed:</b><br/>
-      - Converted I/P features to MFCC instead of a power spectrogram, reducing the input size by 84%.
-      - Adapted this system for the regional language - Gujarati, too.
-      - Scrapped data consisting of 2.5 million words from Wikipedia to use as a corpus for the language model.
-      - Performed character-level error analysis for our system.
-      - Innovated various post-processing techniques such as prefix beam decoding with couple language models and BERT spell corrector that reduced the word error rate by 5.1%.
-      - This research work was accepted to ICON 2020, 17th International Conference on Natural Language Processing, organized by NLP Association, India and AI-NLP-ML Group, IIT Patna.
+      - Converted I/P features to MFCC instead of a power spectrogram, reducing the input size by 84%.<br/>
+      - Adapted this system for the regional language - Gujarati, too.<br/>
+      - Scrapped data consisting of 2.5 million words from Wikipedia to use as a corpus for the language model.<br/>
+      - Performed character-level error analysis for our system.<br/>
+      - Innovated various post-processing techniques such as prefix beam decoding with couple language models and BERT spell corrector that reduced the word error rate by 5.1%.<br/>
+      - This research work was accepted to ICON 2020, 17th International Conference on Natural Language Processing, organized by NLP Association, India and AI-NLP-ML Group, IIT Patna.<br/>
 **Work Experience**
 - <b>Company</b>: Atliq Technologies, Vadodara
 - <b>Designation:</b> Python Developer Intern
