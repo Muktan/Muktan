@@ -30,25 +30,6 @@ Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</
 - 📫 Please email via muktan123@gmail.com to reach me.
 - 👀 See my [Resume](https://drive.google.com/file/d/1OdeaMP59QEVeTXUIzx6o-4AtJW-XQ4Gq/view?usp=sharing) to get more info.
 
-**Research Experience**
-- <b>Title:</b> End-to-End Automatic Speech Recognition(ASR)
-- <b>Task Performed:</b><br/>
-      - Converted I/P features to MFCC instead of a power spectrogram, <b>reducing</b> the input size by <b>84%</b>.<br/>
-      - Adapted this system for the regional language - Gujarati, too.<br/>
-      - <b>Scrapped</b> data consisting of <b>2.5 million</b> words from Wikipedia to use as a corpus for the language model.<br/>
-      - Performed character-level error analysis for our system.<br/>
-      - Innovated various post-processing techniques such as prefix beam decoding with couple language models and BERT spell corrector that reduced the word error rate by 5.1%.<br/>
-      - This research work was <b>accepted to ICON 2020</b>, 17th International Conference on Natural Language Processing, organized by NLP Association, India and AI-NLP-ML Group, IIT Patna.<br/>
-
-**Work Experience**
-- <b>Company</b>: Atliq Technologies, Vadodara
-- <b>Designation:</b> Python Developer Intern
-- <b>Internship Period:</b> 2 months (April 2020 - June 2020)
-- <b>Accomplished:</b><br/>
-      - Improved ingestion performance by <b>80%</b> by Indexing table and refactoring code.<br/>
-      - Increased code coverage by <b>35%</b> by writing test cases in <b>Pytest</b>.<br/>
-      - Refactored code such that it uses <b>OOP</b> concepts.<br/>
-
 **Skills**
 
 - 🎯 Artificial Intelligence.
