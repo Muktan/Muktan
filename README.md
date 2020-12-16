@@ -19,7 +19,7 @@
 <br />
 <br />
 
-Hi, I'm <b>Muktan</b> 👋. I have research interests in <b>Artificial Intelligence</b>, specifically in Natural Language Processing. Moreover, I play chess ♟️ and listening Piano 🎹 and other instrumentals.
+Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</b>, specifically in Natural Language Processing. Moreover, I play chess ♟️ and listening Piano 🎹 and other instrumentals.
 
 **Current Status Quo**
 
