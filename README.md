@@ -40,8 +40,8 @@ Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</
 
 **Stats**
 
-[![Muktan's github stats](https://github-readme-stats.vercel.app/api?username=Muktan&show_icons=true&theme=dark)]
+![Muktan's github stats](https://github-readme-stats.vercel.app/api?username=Muktan&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muktan&layout=compact&theme=dark)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muktan&layout=compact&theme=dark)
 
 ⭐️ From [Muktan](https://github.com/Muktan)
