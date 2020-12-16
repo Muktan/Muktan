@@ -39,6 +39,7 @@ Hi, I'm <b>Muktan</b> 👋. I have research interests in <b>Artificial Intellige
       - Performed character-level error analysis for our system.<br/>
       - Innovated various post-processing techniques such as prefix beam decoding with couple language models and BERT spell corrector that reduced the word error rate by 5.1%.<br/>
       - This research work was accepted to ICON 2020, 17th International Conference on Natural Language Processing, organized by NLP Association, India and AI-NLP-ML Group, IIT Patna.<br/>
+
 **Work Experience**
 - <b>Company</b>: Atliq Technologies, Vadodara
 - <b>Designation:</b> Python Developer Intern
