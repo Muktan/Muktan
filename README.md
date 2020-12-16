@@ -23,6 +23,7 @@ Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</
 
 **Current Status Quo**
 
+- 💻 I'm Research Intern at Indian Space Research Organisation (ISRO).
 - 🔭 I’m currently Researching and Working on <b>End-to-End Speech Recognition(ASR)</b>.
 - 🌱 I’m currently learning <b>Object detection</b> using deep learning.
 - 💼 I’m pursuing a <b>B Tech. Computer Engineering degree at Dharmsinh Desai University,Nadiad</b>.
@@ -35,5 +36,7 @@ Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</
 - 🎯 Artificial Intelligence.
 - 🎯 Python
 - 🎯 Research
+
+[![Muktan's github stats](https://github-readme-stats.vercel.app/api?username=Muktan&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ⭐️ From [Muktan](https://github.com/Muktan)
