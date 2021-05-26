@@ -8,7 +8,6 @@ Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</
 - Ex-Intern at Indian Space Research Organisation (ISRO). Performed Data Analysis and validation with global precipitation datasets.
 - Opensource contribution in HuggingFace and Pandas
 - Completed B. Tech. in Computer Engineering from Dharmsinh Desai University, Nadiad.
-- Contibution to Pandas
 
 **Stats**
 
