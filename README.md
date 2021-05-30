@@ -6,7 +6,7 @@ Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</
 
 - Research work in Speech Recognition domain. Work accepted for 17th International Conference on Natural Language Processing organised by IIT Patna and NLPAI.
 - Ex-Intern at Indian Space Research Organisation (ISRO). Performed Data Analysis and validation with global precipitation datasets.
-- Opensource contribution in HuggingFace and Pandas
+- Opensource contribution in HuggingFace, Optuna and Pandas
 - Completed B. Tech. in Computer Engineering from Dharmsinh Desai University, Nadiad.
 
 **Stats**
@@ -14,6 +14,8 @@ Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</
 ![Muktan's github stats](https://github-readme-stats.vercel.app/api?username=Muktan&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Muktan&layout=compact&theme=dark)
+
+
 
 ---
 
