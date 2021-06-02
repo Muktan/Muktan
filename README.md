@@ -1,12 +1,12 @@
 # Welcome 👋
 
-Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</b>, specifically in Natural Language Processing. Moreover, I play chess ♟️ and listen Piano 🎹 and other instrumentals.
+Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</b>, specifically in Natural Language Processing. Moreover, I play chess ♟️ and listen Piano 🎹 and other instruments.
 
 ## Highlights
 
 - Research work in Speech Recognition domain. Work accepted for 17th International Conference on Natural Language Processing organised by IIT Patna and NLPAI.
 - Ex-Intern at Indian Space Research Organisation (ISRO). Performed Data Analysis and validation with global precipitation datasets.
-- Opensource contribution in HuggingFace, Optuna and Pandas
+- Opensource contribution in Pytorch, HuggingFace, Optuna and Pandas
 - Completed B. Tech. in Computer Engineering from Dharmsinh Desai University, Nadiad.
 
 **Stats**
