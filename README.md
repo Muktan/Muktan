@@ -4,7 +4,7 @@ Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</
 
 ## Highlights
 
-- Research work in Speech Recognition domain. This work was **accepted** in **17th International Conference on Natural Language Processing organised by IIT Patna and NLPAI**
+- Research work in Speech Recognition domain. This work was **accepted** in **17th International Conference on Natural Language Processing organised by IIT Patna and NLPAI**. Available on ACL Anthology: https://aclanthology.org/2020.icon-main.56/
 - Ex-Intern at Indian Space Research Organisation (**ISRO**). Performed Data Analysis and validation with global precipitation datasets
 - Opensource contribution in **Pytorch**, **HuggingFace**, **Optuna** and **Pandas**
 - Completed **B. Tech.** in **Computer Engineering** from **Dharmsinh Desai University, Nadiad**
