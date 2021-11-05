@@ -1,13 +1,13 @@
 # Welcome 👋
 
-Hi, I'm <b>Muktan</b>. I have research interests in <b>Artificial Intelligence</b>, specifically in **Natural Language Processing**. Moreover, I play chess ♟️ and listen to Piano 🎹 and other musical instruments.
+Hi, I'm <b>Muktan</b>. I have interests in <b>Software Development with focus on Machine Learning</b>. Moreover, I play chess ♟️ and listen to Piano 🎹 and other musical instruments.
 
 ## Highlights
 
-- Research work in Speech Recognition domain. This work was **accepted** in **17th International Conference on Natural Language Processing organised by IIT Patna and NLPAI**. Available on ACL Anthology: https://aclanthology.org/2020.icon-main.56/
-- Ex-Intern at Indian Space Research Organisation (**ISRO**). Performed Data Analysis and validation with global precipitation datasets
-- Opensource contribution in **Pytorch**, **HuggingFace**, **Optuna** and **Pandas**
-- Completed **B. Tech.** in **Computer Engineering** from **Dharmsinh Desai University, Nadiad**
+- Opensource contribution in **Pytorch** [PR #2021](https://github.com/pytorch/ignite/pull/2021), **HuggingFace** [PR #11538](https://github.com/huggingface/transformers/pull/11538), **Optuna** [PR #2709](https://github.com/optuna/optuna/pull/2709) and **Pandas** [PR #39932](https://github.com/pandas-dev/pandas/pull/39932), [#40107](https://github.com/pandas-dev/pandas/pull/40107)
+- Couple of Research work in Deep Learning domain. One work was **accepted** in **17th International Conference on Natural Language Processing organised by IIT Patna and NLPAI**. Available on [**ACL Anthology**](https://aclanthology.org/2020.icon-main.56/). And another work is accepted in **ACM TALLIP** (In Press) 
+- Ex-Data Science Intern at Indian Space Research Organisation (**ISRO**). Performed Data Analysis and build calibration algorithm with global precipitation datasets
+- Currently, Pursuing **Master's in Computer Science** @ The University Of Texas at Dallas. Completed **B. Tech.** in **Computer Engineering** from **Dharmsinh Desai University, Nadiad**
 
 **Stats**
 
