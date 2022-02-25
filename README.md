@@ -1,6 +1,6 @@
 # Welcome 👋
 
-Hi, I'm <b>Muktan</b>. I have interests in <b>Machine Learning, specifically Natural Language processing and Speech Technologies</b>. Moreover, I play chess ♟️ and listen to Piano 🎹 and other musical instruments.
+Hi, I'm <b>Muktan</b>. I have interests in <b>Machine Learning, specifically Natural Language Processing (NLP) and Speech Technologies</b>. Moreover, I play chess ♟️ and listen to Piano 🎹 and other musical instruments.
 
 ## Highlights
 
